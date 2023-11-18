@@ -1,0 +1,60 @@
+{
+    "fruits": [
+        {
+            "id": 1,
+            "name": "Apple",
+            "description": "A crisp and sweet red apple.",
+            "price": "0.99",
+            "imageUrl": "https://subzfresh.com/wp-content/uploads/2022/04/apple_158989157.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Banana",
+            "description": "A ripe and yellow banana.",
+            "price": " 0.49",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnzE5M3qbfXrzq9_KV8msswAlLpiFmPYF1iw&usqp=CAU"
+        },
+        {
+            "id": 3,
+            "name": "Orange",
+            "description": "A juicy and citrusy orange.",
+            "price": "0.79",
+            "imageUrl": "https://www.kapruka.com/cdn-cgi/image/width=700,quality=93,f=auto/shops/specialGifts/additionalImages/large/1215158420453_oranges.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Grapes",
+            "description": "Sweet and succulent purple grapes.",
+            "price": "2.99",
+            "imageUrl": "https://www.jiomart.com/images/product/original/590000452/sharad-seedless-grapes-1-kg-product-images-o590000452-p590116963-0-202203171004.jpg?im=Resize=(1000,1000)"
+        },
+        {
+            "id": 5,
+            "name": "Strawberry",
+            "description": "Plump and juicy red strawberries.",
+            "price": "1.49",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuE4D6qCL5JiUD1X-VzYXZ7Njuh0eyDaIVbQ&usqp=CAU"
+        },
+        {
+            "id": 6,
+            "name": "Pineapple",
+            "description": "A tropical and refreshing pineapple.",
+            "price": "1.99",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReeJ251FICfOOeTatmzezhJ2OS9NRLvP2kHCKzJX-y088IgCJFhQYnOE7UPnOzmpia1Y0&usqp=CAU"
+        },
+        {
+            "id": 7,
+            "name": "Mango",
+            "description": "A sweet and ripe mango.",
+            "price": "1.29",
+            "imageUrl": "https://befreshcorp.net/wp-content/uploads/2017/07/product-packshot-mango.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Kiwi",
+            "description": "A tangy and green kiwi fruit.",
+            "price": "0.89",
+            "imageUrl": "https://img.freepik.com/free-vector/realistic-fruits-composition-with-images-whole-sliced-kiwi-fruit-blank-background-vector-illustration_1284-66048.jpg"
+        }
+    ]
+}
